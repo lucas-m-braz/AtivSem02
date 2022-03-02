@@ -1,0 +1,11 @@
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\bin\Debug\netcoreapp2.1\AtivSem02.deps.json
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\bin\Debug\netcoreapp2.1\AtivSem02.runtimeconfig.json
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\bin\Debug\netcoreapp2.1\AtivSem02.runtimeconfig.dev.json
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\bin\Debug\netcoreapp2.1\AtivSem02.dll
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\bin\Debug\netcoreapp2.1\AtivSem02.pdb
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\obj\Debug\netcoreapp2.1\AtivSem02.csprojAssemblyReference.cache
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\obj\Debug\netcoreapp2.1\AtivSem02.csproj.CoreCompileInputs.cache
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\obj\Debug\netcoreapp2.1\AtivSem02.AssemblyInfoInputs.cache
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\obj\Debug\netcoreapp2.1\AtivSem02.AssemblyInfo.cs
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\obj\Debug\netcoreapp2.1\AtivSem02.dll
+D:\Fork\AtivSem02\AtivSem02\AtivSem02\obj\Debug\netcoreapp2.1\AtivSem02.pdb
